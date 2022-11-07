@@ -50,3 +50,21 @@ L'incantatore effettua un attacco a distanza con questo incantesimo per ogni rag
 
 **Ai Livelli Superiori:**  
 Quando l'incantatore lancia questo incantesimo usando uno slot incantesimo di 3° livello o superiore, crea un raggio aggiuntivo per ogni slot di livello superiore al 2°.
+
+#### Passo Velato
+|                 |                                                                                                                    |
+| --------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Libro           | Manuale del giocatore                                                                                              |
+| Livello         | 2                                                                                                                  |
+| Scuola          | Evocazione                                                                                                         |
+| Tempo di lancio | 1 azione bonus                                                                                                     |
+| Gittata         | incantantore                                                                                                       |
+| Componenti      | V                                                                                                                  |
+| Durata          | istantanea                                                                                                         |
+| Classe          | Guerriero (Cavaliere Mistico), Ladro (Mistificatore Arcano), Mago, Stregone, Warlock                               |
+| Sottoclasse     | Druido (Costa), Paladino (Antichi), Paladino (Vendentta), Ranger (Fey Wanderer), Ranger (Viandante dell'Orizzonte) |
+| Dragonmarks     | Mark of Passage                                                                                                    |
+| Danno           | /                                                                                                                  |
+
+**Descrizione**  
+L'incantatore è avvolto per un istante da una foschia argentata e si teletrasporta di un massimo di 9 metri fino a uno spazio libero che egli sia in grado di vedere.  

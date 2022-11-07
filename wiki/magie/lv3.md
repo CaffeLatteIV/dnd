@@ -8,7 +8,7 @@
 | Scuola          | Evocazione                                                                           |
 | Tempo di lancio | 1 azione                                                                             |
 | Gittata         | 18 m                                                                                 |
-| Componenti      | V,S, (una fiaschetta di un umanoide ucciso nelle ultime 24 ore)                      |
+| Componenti      | V,S,M (una fiaschetta di un umanoide ucciso nelle ultime 24 ore)                      |
 | Durata          | Concentrazione, fino ad 1 ora                                                        |
 | Classe          | Guerriero (Cavaliere Mistico), Ladro (Mistificatore Arcano), Mago, Stregone, Warlock |
 | Danno           | evoca demoni                                                                         |

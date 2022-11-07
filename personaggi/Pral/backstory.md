@@ -14,8 +14,9 @@ In famiglia quindi, c'è sempre stato tanta competizione tra i due, fomentata an
 Lui viveva nel seminterrato della casa, lei aveva la camera più grande. Tutti i premi vinti dalla sorella erano incorniciaati o messi in mostra sui ripiani in casa, mentre le poche conquiste di Tathaln erano tenute in una cassa in camera sua.
 Quando hanno deciso di investire gran parte dei loro guadagni per mandare la figlia in una prestigiosa scuola di magia rinunciando così alla possibilità di una buona istruzione per Tathaln lui decise di scappare di casa e andare alla ricerca di un modo per diventare più forte della sorella.
 Durante le sue ricerche diventa discepolo di **Kassius Petrion**, un grande mago specializzato nelle arti occulte. 
-Nel 725 D.D. finalmente Kassius riesce ad evocare il demone **Lolth**, per breve tempo ma abbastanza per formare un patto con Tathaln. [<---Fare-Meglio]
-In cambio dei poteri ricevuti lui avrebbe ucciso sua sorella e donato (alla sua morte) la sua anima alla regina.
+Nel 725 D.D. finalmente Kassius riesce ad evocare il demone **Lolth**, per breve tempo ma abbastanza per formare un patto con Tathaln:
+L'obiettivo del mago era quello di usare il corpo di Tathaln come ospite per trasmutare la regina nel piano terreno. Per fare ciò è necessario che Tathaln diventi il più forte possibile per essere in grado di resistere au danni di una trasmutazione e per essere un buon ospite. [<--FareMeglio]
+In cambio dei poteri ricevuti lui avrebbe ucciso sua sorella.
 
 
 ## Appendice

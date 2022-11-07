@@ -42,6 +42,7 @@ L'incantesimo termina se l'incantatore usa la propria azione per fare qualsiasi 
 
 **Ai Livelli Superiori**  
 Quando l'incantatore lancia questo incantesimo usando uno slot incantesimo di 2° livello o superiore, i danni iniziali aumentano di 1d12 per ogni slot di livello superiore al 1°.
+
 #### Intimorire infernale
 |                 |                                                                                                                                  |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,6 +63,7 @@ La creatura deve effettuare un tiro salvezza su **Destrezza**. Se lo fallisce, s
 
 **Ai livelli superiori**  
 Quando l'incantatore lancia questo incantesimo usando uno slot incantesimo di 2° livello o superiore, i danni aumentano di 1d10 per ogni slot di livello superiore al 1°.
+
 #### Comando
 |                 |                                                                                                                                              |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -70,7 +72,7 @@ Quando l'incantatore lancia questo incantesimo usando uno slot incantesimo di 2�
 | Scuola          | Ammaliamento                                                                                                                                 |
 | Tempo di lancio | 1 azione                                                                                                                                     |
 | Gittata         | 18 m                                                                                                                                         |
-| Componenti      | V,                                                                                                                                           |
+| Componenti      | V                                                                                                                                           |
 | Durata          | 1 round                                                                                                                                      |
 | Classe          | Chierico, Paladino                                                                                                                           |
 | Sottoclasse     | bardo(Glamour), Chierico(Conoscenza), Chierico(Order) Paladino (Conquista), Paladino  (Corona), Stregone (Anima Divina), Warlock (L'Immondo) |
